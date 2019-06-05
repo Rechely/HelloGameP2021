@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+
+    <string name="trimage">Top Left Image</string>
+    <string name="tlimage">Top Right Image</string>
+    <string name="blimage">Bottom Left Image</string>
+    <string name="brimage">Bottom Right Image</string>
+
+    <string name="gameInfo">Game Info</string>
+    <string name="knowMore">Do you want to know more ?</string>
+
+    <string name="gameName">Name: </string>
+    <string name="gameType">Type: </string>
+    <string name="gameNbPlayer">Nb player: </string>
+    <string name="gameYear">Year: </string>
+
+
+</resources>
